@@ -44,7 +44,7 @@ void greedy_forward(std::vector<int> f)
         temp.clear();
     }
 
-    int max_number_of_features = 2 * f.size() - 1;
+    int max_number_of_features = f.size() + 1;
 
     std::cout << "Beginning search.\n\n";
 
@@ -99,6 +99,69 @@ void greedy_forward(std::vector<int> f)
 
 void greedy_backwards(std::vector<int> f)
 {
+
+    int max_accuracy = 0;
+    int current_accuracy = 0;
+    int temp_accuracy = 0;
+    int index_of_best = 0;
+    std::vector<int> initial_state = f;
+    std::vector<int> temp;
+    std::vector<std::vector<int>> queue;
+
+    max_accuracy = 0;
+
+    queue.push_back(initial_state);
+
+    int max_number_of_features = f.size() + 1;
+
+    std::cout << "Beginning search.\n\n";
+
+    for (int k = 0; k < max_number_of_features; k++)
+    {
+        if (k > 0)
+        { // set up queue of feature combinations to be tested
+            queue.clear();
+            for (int i = 0; i < initial_state.size(); i++)
+            {
+                temp = initial_state;
+                temp.erase(temp.begin() + i);
+                queue.push_back(temp);
+            }
+        }
+        // check if each element in queue is
+        for (int i = 0; i < queue.size(); i++)
+        {
+            temp_accuracy = evaluate(queue.at(i));
+            std::cout << "\tUsing feature(s) {";
+            print_state(queue.at(i));
+            std::cout << "} accuracy is " << temp_accuracy << "%\n";
+            if (temp_accuracy >= current_accuracy)
+            {
+                index_of_best = i;
+                current_accuracy = temp_accuracy;
+            }
+        }
+
+        if (current_accuracy >= max_accuracy)
+        {
+            initial_state.clear();
+            initial_state = queue.at(index_of_best);
+            max_accuracy = current_accuracy;
+            current_accuracy = 0;
+            std::cout << "\nFeature set {";
+            print_state(initial_state);
+            std::cout << "} was best, accuracy is " << max_accuracy << "%\n\n";
+        }
+        else
+        {
+            std::cout << "\n(WARNING ACCURACY REDUCED)\n\n";
+            k = max_number_of_features; // break out of for loop
+        }
+    }
+
+    std::cout << "Finished search!! The best feature subset is {";
+    print_state(initial_state);
+    std::cout << "} , which has an accuracy of " << max_accuracy << "%\n\n";
 }
 
 int main()
