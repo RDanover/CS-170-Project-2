@@ -108,8 +108,6 @@ void greedy_backwards(std::vector<int> f)
     std::vector<int> temp;
     std::vector<std::vector<int>> queue;
 
-    max_accuracy = 0;
-
     queue.push_back(initial_state);
 
     int max_number_of_features = f.size() + 1;
@@ -177,18 +175,16 @@ int main()
     {
         features.push_back(i + 1);
     }
-    while (algo_input != 0)
+
+    std::cout << "1. Greedy Forwards\n2. Greedy Backwards\nPlease enter the number of the algorithm you would like to use or 0 to quit:\n";
+    std::cin >> algo_input;
+    if (algo_input == 1)
     {
-        std::cout << "1. Greedy Forwards\n2. Greedy Backwards\nPlease enter the number of the algorithm you would like to use or 0 to quit:\n";
-        std::cin >> algo_input;
-        if (algo_input == 1)
-        {
-            greedy_forward(features);
-        }
-        else if (algo_input == 2)
-        {
-            greedy_backwards(features);
-        }
+        greedy_forward(features);
+    }
+    else if (algo_input == 2)
+    {
+        greedy_backwards(features);
     }
 
     return 0;
