@@ -25,24 +25,55 @@ void train(std::string filename)
     {
         std::cout << "Error opening file: " << filename << "\n";
     }
-
+    int num_rows = 0;
     while (getline(file, line))
     {
         std::stringstream ss(line);
         std::string value;
         std::vector<double> row;
-
+        int num_columns = 0;
         while (ss >> value)
         {
+            num_columns++;
             row.push_back(stod(value));
         }
-
+        num_rows++;
         raw_data.push_back(row);
     }
 
     file.close();
 
     // file has been placed into data
+
+    std::vector<double> columns;
+
+    for (int i = 0; i < num_columns; i++)
+    {
+        columns.push_back(0);
+    }
+
+    for (int r = 0; r < raw_data.size(); r++)
+    {
+
+        for (int c = 0; c < raw_data.at(r).size(); c++)
+        {
+            columns.at(c) += raw_data.at(r).at(c);
+        }
+    }
+
+    for (int i = 0; i < num_columns; i++)
+    {
+        columns.at(i) /= num_rows; // columns now stores averages of each column
+    }
+
+    for (int r = 0; r < raw_data.size(); r++)
+    {
+        for (int c = 0; c < raw_data.at(r).size(); c++)
+        {
+            
+        }
+    }
+
     // normalize data
 }
 
