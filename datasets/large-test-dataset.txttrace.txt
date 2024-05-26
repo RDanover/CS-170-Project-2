@@ -1,0 +1,5010 @@
+BEGINING LEAVE ONE OUT VALIDATION
+NORMALIZING DATA
+Time taken for train function: 0.0000 seconds
+Instance  0  is class  2.0
+It's nearest neighbor is instance  845  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  1  is class  2.0
+It's nearest neighbor is instance  54  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  2  is class  2.0
+It's nearest neighbor is instance  371  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  3  is class  2.0
+It's nearest neighbor is instance  435  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  4  is class  2.0
+It's nearest neighbor is instance  814  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  5  is class  2.0
+It's nearest neighbor is instance  204  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  6  is class  2.0
+It's nearest neighbor is instance  947  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  7  is class  2.0
+It's nearest neighbor is instance  164  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  8  is class  1.0
+It's nearest neighbor is instance  413  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  9  is class  2.0
+It's nearest neighbor is instance  717  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  10  is class  2.0
+It's nearest neighbor is instance  397  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  11  is class  2.0
+It's nearest neighbor is instance  370  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  12  is class  2.0
+It's nearest neighbor is instance  55  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  13  is class  1.0
+It's nearest neighbor is instance  584  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  14  is class  2.0
+It's nearest neighbor is instance  40  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  15  is class  1.0
+It's nearest neighbor is instance  360  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  16  is class  2.0
+It's nearest neighbor is instance  831  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  17  is class  2.0
+It's nearest neighbor is instance  54  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  18  is class  2.0
+It's nearest neighbor is instance  938  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  19  is class  2.0
+It's nearest neighbor is instance  915  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  20  is class  2.0
+It's nearest neighbor is instance  557  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  21  is class  1.0
+It's nearest neighbor is instance  296  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  22  is class  2.0
+It's nearest neighbor is instance  447  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  23  is class  2.0
+It's nearest neighbor is instance  498  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  24  is class  2.0
+It's nearest neighbor is instance  289  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  25  is class  2.0
+It's nearest neighbor is instance  462  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  26  is class  2.0
+It's nearest neighbor is instance  626  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  27  is class  2.0
+It's nearest neighbor is instance  848  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  28  is class  2.0
+It's nearest neighbor is instance  389  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  29  is class  2.0
+It's nearest neighbor is instance  936  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  30  is class  1.0
+It's nearest neighbor is instance  211  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  31  is class  2.0
+It's nearest neighbor is instance  291  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  32  is class  1.0
+It's nearest neighbor is instance  734  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  33  is class  1.0
+It's nearest neighbor is instance  113  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  34  is class  1.0
+It's nearest neighbor is instance  901  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  35  is class  2.0
+It's nearest neighbor is instance  738  which is class  2.0
+Time taken for test function: 0.0091 seconds
+
+
+Instance  36  is class  2.0
+It's nearest neighbor is instance  18  which is class  2.0
+Time taken for test function: 0.0091 seconds
+
+
+Instance  37  is class  2.0
+It's nearest neighbor is instance  214  which is class  2.0
+Time taken for test function: 0.0092 seconds
+
+
+Instance  38  is class  2.0
+It's nearest neighbor is instance  596  which is class  2.0
+Time taken for test function: 0.0092 seconds
+
+
+Instance  39  is class  1.0
+It's nearest neighbor is instance  472  which is class  1.0
+Time taken for test function: 0.0090 seconds
+
+
+Instance  40  is class  2.0
+It's nearest neighbor is instance  14  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  41  is class  2.0
+It's nearest neighbor is instance  662  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  42  is class  2.0
+It's nearest neighbor is instance  205  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  43  is class  2.0
+It's nearest neighbor is instance  193  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  44  is class  2.0
+It's nearest neighbor is instance  488  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  45  is class  2.0
+It's nearest neighbor is instance  715  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  46  is class  2.0
+It's nearest neighbor is instance  398  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  47  is class  2.0
+It's nearest neighbor is instance  414  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  48  is class  2.0
+It's nearest neighbor is instance  381  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  49  is class  2.0
+It's nearest neighbor is instance  165  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  50  is class  2.0
+It's nearest neighbor is instance  592  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  51  is class  2.0
+It's nearest neighbor is instance  735  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  52  is class  2.0
+It's nearest neighbor is instance  962  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  53  is class  2.0
+It's nearest neighbor is instance  812  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  54  is class  2.0
+It's nearest neighbor is instance  1  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  55  is class  2.0
+It's nearest neighbor is instance  12  which is class  2.0
+Time taken for test function: 0.0088 seconds
+
+
+Instance  56  is class  2.0
+It's nearest neighbor is instance  303  which is class  2.0
+Time taken for test function: 0.0089 seconds
+
+
+Instance  57  is class  2.0
+It's nearest neighbor is instance  568  which is class  2.0
+Time taken for test function: 0.0088 seconds
+
+
+Instance  58  is class  2.0
+It's nearest neighbor is instance  849  which is class  2.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  59  is class  2.0
+It's nearest neighbor is instance  330  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  60  is class  2.0
+It's nearest neighbor is instance  821  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  61  is class  1.0
+It's nearest neighbor is instance  934  which is class  1.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  62  is class  1.0
+It's nearest neighbor is instance  146  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  63  is class  1.0
+It's nearest neighbor is instance  286  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  64  is class  2.0
+It's nearest neighbor is instance  869  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  65  is class  1.0
+It's nearest neighbor is instance  250  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  66  is class  2.0
+It's nearest neighbor is instance  220  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  67  is class  2.0
+It's nearest neighbor is instance  711  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  68  is class  2.0
+It's nearest neighbor is instance  962  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  69  is class  1.0
+It's nearest neighbor is instance  912  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  70  is class  2.0
+It's nearest neighbor is instance  620  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  71  is class  2.0
+It's nearest neighbor is instance  27  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  72  is class  2.0
+It's nearest neighbor is instance  464  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  73  is class  2.0
+It's nearest neighbor is instance  763  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  74  is class  1.0
+It's nearest neighbor is instance  526  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  75  is class  2.0
+It's nearest neighbor is instance  158  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  76  is class  1.0
+It's nearest neighbor is instance  131  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  77  is class  2.0
+It's nearest neighbor is instance  925  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  78  is class  1.0
+It's nearest neighbor is instance  411  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  79  is class  2.0
+It's nearest neighbor is instance  627  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  80  is class  2.0
+It's nearest neighbor is instance  19  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  81  is class  2.0
+It's nearest neighbor is instance  642  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  82  is class  2.0
+It's nearest neighbor is instance  154  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  83  is class  2.0
+It's nearest neighbor is instance  375  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  84  is class  2.0
+It's nearest neighbor is instance  541  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  85  is class  2.0
+It's nearest neighbor is instance  661  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  86  is class  1.0
+It's nearest neighbor is instance  181  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  87  is class  2.0
+It's nearest neighbor is instance  621  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  88  is class  2.0
+It's nearest neighbor is instance  737  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  89  is class  2.0
+It's nearest neighbor is instance  640  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  90  is class  2.0
+It's nearest neighbor is instance  245  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  91  is class  2.0
+It's nearest neighbor is instance  729  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  92  is class  2.0
+It's nearest neighbor is instance  940  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  93  is class  1.0
+It's nearest neighbor is instance  316  which is class  1.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  94  is class  2.0
+It's nearest neighbor is instance  572  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  95  is class  2.0
+It's nearest neighbor is instance  606  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  96  is class  2.0
+It's nearest neighbor is instance  558  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  97  is class  2.0
+It's nearest neighbor is instance  305  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  98  is class  2.0
+It's nearest neighbor is instance  601  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  99  is class  2.0
+It's nearest neighbor is instance  643  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  100  is class  2.0
+It's nearest neighbor is instance  517  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  101  is class  1.0
+It's nearest neighbor is instance  677  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  102  is class  2.0
+It's nearest neighbor is instance  439  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  103  is class  2.0
+It's nearest neighbor is instance  880  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  104  is class  1.0
+It's nearest neighbor is instance  181  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  105  is class  2.0
+It's nearest neighbor is instance  169  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  106  is class  1.0
+It's nearest neighbor is instance  853  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  107  is class  2.0
+It's nearest neighbor is instance  552  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  108  is class  2.0
+It's nearest neighbor is instance  298  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  109  is class  2.0
+It's nearest neighbor is instance  322  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  110  is class  1.0
+It's nearest neighbor is instance  483  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  111  is class  2.0
+It's nearest neighbor is instance  715  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  112  is class  2.0
+It's nearest neighbor is instance  275  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  113  is class  1.0
+It's nearest neighbor is instance  503  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  114  is class  1.0
+It's nearest neighbor is instance  882  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  115  is class  2.0
+It's nearest neighbor is instance  746  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  116  is class  2.0
+It's nearest neighbor is instance  735  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  117  is class  2.0
+It's nearest neighbor is instance  319  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  118  is class  2.0
+It's nearest neighbor is instance  920  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  119  is class  2.0
+It's nearest neighbor is instance  144  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  120  is class  2.0
+It's nearest neighbor is instance  239  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  121  is class  2.0
+It's nearest neighbor is instance  670  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  122  is class  2.0
+It's nearest neighbor is instance  811  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  123  is class  2.0
+It's nearest neighbor is instance  705  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  124  is class  2.0
+It's nearest neighbor is instance  917  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  125  is class  2.0
+It's nearest neighbor is instance  916  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  126  is class  2.0
+It's nearest neighbor is instance  356  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  127  is class  2.0
+It's nearest neighbor is instance  769  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  128  is class  2.0
+It's nearest neighbor is instance  539  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  129  is class  2.0
+It's nearest neighbor is instance  307  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  130  is class  2.0
+It's nearest neighbor is instance  110  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  131  is class  1.0
+It's nearest neighbor is instance  76  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  132  is class  2.0
+It's nearest neighbor is instance  660  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  133  is class  2.0
+It's nearest neighbor is instance  415  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  134  is class  2.0
+It's nearest neighbor is instance  664  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  135  is class  2.0
+It's nearest neighbor is instance  611  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  136  is class  1.0
+It's nearest neighbor is instance  848  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  137  is class  2.0
+It's nearest neighbor is instance  177  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  138  is class  2.0
+It's nearest neighbor is instance  303  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  139  is class  2.0
+It's nearest neighbor is instance  313  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  140  is class  2.0
+It's nearest neighbor is instance  241  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  141  is class  2.0
+It's nearest neighbor is instance  329  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  142  is class  2.0
+It's nearest neighbor is instance  778  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  143  is class  2.0
+It's nearest neighbor is instance  534  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  144  is class  2.0
+It's nearest neighbor is instance  894  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  145  is class  2.0
+It's nearest neighbor is instance  767  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  146  is class  1.0
+It's nearest neighbor is instance  62  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  147  is class  2.0
+It's nearest neighbor is instance  572  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  148  is class  2.0
+It's nearest neighbor is instance  195  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  149  is class  2.0
+It's nearest neighbor is instance  94  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  150  is class  1.0
+It's nearest neighbor is instance  598  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  151  is class  2.0
+It's nearest neighbor is instance  226  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  152  is class  2.0
+It's nearest neighbor is instance  485  which is class  2.0
+Time taken for test function: 0.0089 seconds
+
+
+Instance  153  is class  2.0
+It's nearest neighbor is instance  416  which is class  1.0
+Time taken for test function: 0.0089 seconds
+
+
+Instance  154  is class  2.0
+It's nearest neighbor is instance  408  which is class  2.0
+Time taken for test function: 0.0090 seconds
+
+
+Instance  155  is class  1.0
+It's nearest neighbor is instance  630  which is class  1.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  156  is class  1.0
+It's nearest neighbor is instance  315  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  157  is class  2.0
+It's nearest neighbor is instance  692  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  158  is class  2.0
+It's nearest neighbor is instance  605  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  159  is class  2.0
+It's nearest neighbor is instance  546  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  160  is class  2.0
+It's nearest neighbor is instance  433  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  161  is class  2.0
+It's nearest neighbor is instance  626  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  162  is class  2.0
+It's nearest neighbor is instance  862  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  163  is class  2.0
+It's nearest neighbor is instance  261  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  164  is class  2.0
+It's nearest neighbor is instance  365  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  165  is class  2.0
+It's nearest neighbor is instance  49  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  166  is class  2.0
+It's nearest neighbor is instance  573  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  167  is class  2.0
+It's nearest neighbor is instance  219  which is class  2.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  168  is class  2.0
+It's nearest neighbor is instance  785  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  169  is class  2.0
+It's nearest neighbor is instance  699  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  170  is class  2.0
+It's nearest neighbor is instance  737  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  171  is class  2.0
+It's nearest neighbor is instance  769  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  172  is class  2.0
+It's nearest neighbor is instance  446  which is class  2.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  173  is class  1.0
+It's nearest neighbor is instance  630  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  174  is class  2.0
+It's nearest neighbor is instance  85  which is class  2.0
+Time taken for test function: 0.0088 seconds
+
+
+Instance  175  is class  2.0
+It's nearest neighbor is instance  377  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  176  is class  2.0
+It's nearest neighbor is instance  613  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  177  is class  2.0
+It's nearest neighbor is instance  241  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  178  is class  2.0
+It's nearest neighbor is instance  752  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  179  is class  1.0
+It's nearest neighbor is instance  971  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  180  is class  2.0
+It's nearest neighbor is instance  387  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  181  is class  1.0
+It's nearest neighbor is instance  104  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  182  is class  2.0
+It's nearest neighbor is instance  835  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  183  is class  2.0
+It's nearest neighbor is instance  419  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  184  is class  2.0
+It's nearest neighbor is instance  859  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  185  is class  2.0
+It's nearest neighbor is instance  627  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  186  is class  2.0
+It's nearest neighbor is instance  372  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  187  is class  2.0
+It's nearest neighbor is instance  294  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  188  is class  1.0
+It's nearest neighbor is instance  8  which is class  1.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  189  is class  1.0
+It's nearest neighbor is instance  637  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  190  is class  2.0
+It's nearest neighbor is instance  941  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  191  is class  1.0
+It's nearest neighbor is instance  502  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  192  is class  2.0
+It's nearest neighbor is instance  469  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  193  is class  2.0
+It's nearest neighbor is instance  43  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  194  is class  2.0
+It's nearest neighbor is instance  740  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  195  is class  2.0
+It's nearest neighbor is instance  392  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  196  is class  2.0
+It's nearest neighbor is instance  518  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  197  is class  2.0
+It's nearest neighbor is instance  629  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  198  is class  2.0
+It's nearest neighbor is instance  517  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  199  is class  2.0
+It's nearest neighbor is instance  531  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  200  is class  2.0
+It's nearest neighbor is instance  452  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  201  is class  2.0
+It's nearest neighbor is instance  837  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  202  is class  2.0
+It's nearest neighbor is instance  913  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  203  is class  2.0
+It's nearest neighbor is instance  754  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  204  is class  2.0
+It's nearest neighbor is instance  990  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  205  is class  2.0
+It's nearest neighbor is instance  26  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  206  is class  2.0
+It's nearest neighbor is instance  793  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  207  is class  2.0
+It's nearest neighbor is instance  4  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  208  is class  2.0
+It's nearest neighbor is instance  405  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  209  is class  2.0
+It's nearest neighbor is instance  464  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  210  is class  2.0
+It's nearest neighbor is instance  651  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  211  is class  1.0
+It's nearest neighbor is instance  30  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  212  is class  2.0
+It's nearest neighbor is instance  396  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  213  is class  2.0
+It's nearest neighbor is instance  921  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  214  is class  2.0
+It's nearest neighbor is instance  425  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  215  is class  2.0
+It's nearest neighbor is instance  836  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  216  is class  2.0
+It's nearest neighbor is instance  497  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  217  is class  2.0
+It's nearest neighbor is instance  497  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  218  is class  2.0
+It's nearest neighbor is instance  336  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  219  is class  2.0
+It's nearest neighbor is instance  931  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  220  is class  2.0
+It's nearest neighbor is instance  327  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  221  is class  2.0
+It's nearest neighbor is instance  469  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  222  is class  2.0
+It's nearest neighbor is instance  667  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  223  is class  2.0
+It's nearest neighbor is instance  405  which is class  2.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  224  is class  2.0
+It's nearest neighbor is instance  777  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  225  is class  2.0
+It's nearest neighbor is instance  270  which is class  2.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  226  is class  2.0
+It's nearest neighbor is instance  151  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  227  is class  2.0
+It's nearest neighbor is instance  962  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  228  is class  2.0
+It's nearest neighbor is instance  702  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  229  is class  2.0
+It's nearest neighbor is instance  760  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  230  is class  2.0
+It's nearest neighbor is instance  201  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  231  is class  2.0
+It's nearest neighbor is instance  892  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  232  is class  2.0
+It's nearest neighbor is instance  559  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  233  is class  1.0
+It's nearest neighbor is instance  955  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  234  is class  2.0
+It's nearest neighbor is instance  618  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  235  is class  1.0
+It's nearest neighbor is instance  297  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  236  is class  1.0
+It's nearest neighbor is instance  824  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  237  is class  2.0
+It's nearest neighbor is instance  512  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  238  is class  2.0
+It's nearest neighbor is instance  904  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  239  is class  2.0
+It's nearest neighbor is instance  120  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  240  is class  2.0
+It's nearest neighbor is instance  746  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  241  is class  2.0
+It's nearest neighbor is instance  177  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  242  is class  2.0
+It's nearest neighbor is instance  700  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  243  is class  1.0
+It's nearest neighbor is instance  747  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  244  is class  2.0
+It's nearest neighbor is instance  332  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  245  is class  2.0
+It's nearest neighbor is instance  20  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  246  is class  2.0
+It's nearest neighbor is instance  385  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  247  is class  1.0
+It's nearest neighbor is instance  685  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  248  is class  2.0
+It's nearest neighbor is instance  441  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  249  is class  2.0
+It's nearest neighbor is instance  361  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  250  is class  1.0
+It's nearest neighbor is instance  347  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  251  is class  1.0
+It's nearest neighbor is instance  296  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  252  is class  2.0
+It's nearest neighbor is instance  441  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  253  is class  2.0
+It's nearest neighbor is instance  693  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  254  is class  1.0
+It's nearest neighbor is instance  762  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  255  is class  2.0
+It's nearest neighbor is instance  37  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  256  is class  1.0
+It's nearest neighbor is instance  700  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  257  is class  1.0
+It's nearest neighbor is instance  686  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  258  is class  2.0
+It's nearest neighbor is instance  89  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  259  is class  1.0
+It's nearest neighbor is instance  912  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  260  is class  2.0
+It's nearest neighbor is instance  692  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  261  is class  2.0
+It's nearest neighbor is instance  555  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  262  is class  2.0
+It's nearest neighbor is instance  323  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  263  is class  2.0
+It's nearest neighbor is instance  227  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  264  is class  2.0
+It's nearest neighbor is instance  379  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  265  is class  1.0
+It's nearest neighbor is instance  657  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  266  is class  2.0
+It's nearest neighbor is instance  718  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  267  is class  2.0
+It's nearest neighbor is instance  309  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  268  is class  2.0
+It's nearest neighbor is instance  326  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  269  is class  2.0
+It's nearest neighbor is instance  285  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  270  is class  2.0
+It's nearest neighbor is instance  794  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  271  is class  2.0
+It's nearest neighbor is instance  354  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  272  is class  1.0
+It's nearest neighbor is instance  696  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  273  is class  2.0
+It's nearest neighbor is instance  757  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  274  is class  2.0
+It's nearest neighbor is instance  913  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  275  is class  2.0
+It's nearest neighbor is instance  112  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  276  is class  1.0
+It's nearest neighbor is instance  631  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  277  is class  2.0
+It's nearest neighbor is instance  490  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  278  is class  1.0
+It's nearest neighbor is instance  747  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  279  is class  1.0
+It's nearest neighbor is instance  677  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  280  is class  2.0
+It's nearest neighbor is instance  910  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  281  is class  2.0
+It's nearest neighbor is instance  185  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  282  is class  2.0
+It's nearest neighbor is instance  909  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  283  is class  2.0
+It's nearest neighbor is instance  540  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  284  is class  2.0
+It's nearest neighbor is instance  614  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  285  is class  2.0
+It's nearest neighbor is instance  269  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  286  is class  1.0
+It's nearest neighbor is instance  63  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  287  is class  2.0
+It's nearest neighbor is instance  639  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  288  is class  2.0
+It's nearest neighbor is instance  927  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  289  is class  2.0
+It's nearest neighbor is instance  641  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  290  is class  2.0
+It's nearest neighbor is instance  668  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  291  is class  2.0
+It's nearest neighbor is instance  984  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  292  is class  2.0
+It's nearest neighbor is instance  837  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  293  is class  2.0
+It's nearest neighbor is instance  386  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  294  is class  2.0
+It's nearest neighbor is instance  187  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  295  is class  2.0
+It's nearest neighbor is instance  137  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  296  is class  1.0
+It's nearest neighbor is instance  844  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  297  is class  1.0
+It's nearest neighbor is instance  865  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  298  is class  2.0
+It's nearest neighbor is instance  108  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  299  is class  2.0
+It's nearest neighbor is instance  561  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  300  is class  2.0
+It's nearest neighbor is instance  487  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  301  is class  2.0
+It's nearest neighbor is instance  935  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  302  is class  1.0
+It's nearest neighbor is instance  654  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  303  is class  2.0
+It's nearest neighbor is instance  138  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  304  is class  2.0
+It's nearest neighbor is instance  833  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  305  is class  2.0
+It's nearest neighbor is instance  486  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  306  is class  1.0
+It's nearest neighbor is instance  574  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  307  is class  2.0
+It's nearest neighbor is instance  453  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  308  is class  2.0
+It's nearest neighbor is instance  870  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  309  is class  2.0
+It's nearest neighbor is instance  267  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  310  is class  2.0
+It's nearest neighbor is instance  963  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  311  is class  2.0
+It's nearest neighbor is instance  736  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  312  is class  1.0
+It's nearest neighbor is instance  587  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  313  is class  2.0
+It's nearest neighbor is instance  139  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  314  is class  2.0
+It's nearest neighbor is instance  35  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  315  is class  1.0
+It's nearest neighbor is instance  156  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  316  is class  1.0
+It's nearest neighbor is instance  93  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  317  is class  2.0
+It's nearest neighbor is instance  743  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  318  is class  2.0
+It's nearest neighbor is instance  100  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  319  is class  2.0
+It's nearest neighbor is instance  510  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  320  is class  2.0
+It's nearest neighbor is instance  135  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  321  is class  2.0
+It's nearest neighbor is instance  570  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  322  is class  2.0
+It's nearest neighbor is instance  109  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  323  is class  2.0
+It's nearest neighbor is instance  791  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  324  is class  2.0
+It's nearest neighbor is instance  505  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  325  is class  2.0
+It's nearest neighbor is instance  534  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  326  is class  2.0
+It's nearest neighbor is instance  268  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  327  is class  2.0
+It's nearest neighbor is instance  554  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  328  is class  2.0
+It's nearest neighbor is instance  875  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  329  is class  2.0
+It's nearest neighbor is instance  141  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  330  is class  2.0
+It's nearest neighbor is instance  59  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  331  is class  2.0
+It's nearest neighbor is instance  745  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  332  is class  2.0
+It's nearest neighbor is instance  244  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  333  is class  2.0
+It's nearest neighbor is instance  739  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  334  is class  1.0
+It's nearest neighbor is instance  631  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  335  is class  2.0
+It's nearest neighbor is instance  814  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  336  is class  2.0
+It's nearest neighbor is instance  589  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  337  is class  2.0
+It's nearest neighbor is instance  974  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  338  is class  1.0
+It's nearest neighbor is instance  889  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  339  is class  2.0
+It's nearest neighbor is instance  994  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  340  is class  1.0
+It's nearest neighbor is instance  688  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  341  is class  2.0
+It's nearest neighbor is instance  822  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  342  is class  2.0
+It's nearest neighbor is instance  953  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  343  is class  2.0
+It's nearest neighbor is instance  867  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  344  is class  2.0
+It's nearest neighbor is instance  884  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  345  is class  2.0
+It's nearest neighbor is instance  692  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  346  is class  2.0
+It's nearest neighbor is instance  927  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  347  is class  1.0
+It's nearest neighbor is instance  250  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  348  is class  2.0
+It's nearest neighbor is instance  398  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  349  is class  2.0
+It's nearest neighbor is instance  139  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  350  is class  2.0
+It's nearest neighbor is instance  607  which is class  2.0
+Time taken for test function: 0.0088 seconds
+
+
+Instance  351  is class  2.0
+It's nearest neighbor is instance  64  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  352  is class  1.0
+It's nearest neighbor is instance  470  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  353  is class  1.0
+It's nearest neighbor is instance  416  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  354  is class  2.0
+It's nearest neighbor is instance  271  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  355  is class  1.0
+It's nearest neighbor is instance  383  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  356  is class  2.0
+It's nearest neighbor is instance  126  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  357  is class  2.0
+It's nearest neighbor is instance  841  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  358  is class  2.0
+It's nearest neighbor is instance  554  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  359  is class  2.0
+It's nearest neighbor is instance  589  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  360  is class  1.0
+It's nearest neighbor is instance  15  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  361  is class  2.0
+It's nearest neighbor is instance  249  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  362  is class  2.0
+It's nearest neighbor is instance  820  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  363  is class  2.0
+It's nearest neighbor is instance  846  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  364  is class  2.0
+It's nearest neighbor is instance  461  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  365  is class  2.0
+It's nearest neighbor is instance  164  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  366  is class  2.0
+It's nearest neighbor is instance  123  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  367  is class  2.0
+It's nearest neighbor is instance  244  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  368  is class  2.0
+It's nearest neighbor is instance  710  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  369  is class  2.0
+It's nearest neighbor is instance  736  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  370  is class  2.0
+It's nearest neighbor is instance  649  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  371  is class  1.0
+It's nearest neighbor is instance  788  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  372  is class  2.0
+It's nearest neighbor is instance  186  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  373  is class  2.0
+It's nearest neighbor is instance  822  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  374  is class  2.0
+It's nearest neighbor is instance  712  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  375  is class  2.0
+It's nearest neighbor is instance  390  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  376  is class  2.0
+It's nearest neighbor is instance  182  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  377  is class  2.0
+It's nearest neighbor is instance  175  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  378  is class  1.0
+It's nearest neighbor is instance  475  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  379  is class  2.0
+It's nearest neighbor is instance  264  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  380  is class  2.0
+It's nearest neighbor is instance  776  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  381  is class  2.0
+It's nearest neighbor is instance  48  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  382  is class  2.0
+It's nearest neighbor is instance  268  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  383  is class  1.0
+It's nearest neighbor is instance  355  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  384  is class  1.0
+It's nearest neighbor is instance  167  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  385  is class  2.0
+It's nearest neighbor is instance  962  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  386  is class  2.0
+It's nearest neighbor is instance  293  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  387  is class  2.0
+It's nearest neighbor is instance  288  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  388  is class  2.0
+It's nearest neighbor is instance  479  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  389  is class  2.0
+It's nearest neighbor is instance  28  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  390  is class  2.0
+It's nearest neighbor is instance  375  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  391  is class  1.0
+It's nearest neighbor is instance  65  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  392  is class  2.0
+It's nearest neighbor is instance  195  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  393  is class  2.0
+It's nearest neighbor is instance  821  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  394  is class  2.0
+It's nearest neighbor is instance  707  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  395  is class  2.0
+It's nearest neighbor is instance  59  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  396  is class  2.0
+It's nearest neighbor is instance  212  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  397  is class  2.0
+It's nearest neighbor is instance  10  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  398  is class  2.0
+It's nearest neighbor is instance  703  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  399  is class  2.0
+It's nearest neighbor is instance  832  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  400  is class  2.0
+It's nearest neighbor is instance  29  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  401  is class  1.0
+It's nearest neighbor is instance  334  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  402  is class  2.0
+It's nearest neighbor is instance  801  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  403  is class  2.0
+It's nearest neighbor is instance  807  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  404  is class  2.0
+It's nearest neighbor is instance  566  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  405  is class  2.0
+It's nearest neighbor is instance  208  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  406  is class  2.0
+It's nearest neighbor is instance  726  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  407  is class  2.0
+It's nearest neighbor is instance  579  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  408  is class  2.0
+It's nearest neighbor is instance  154  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  409  is class  2.0
+It's nearest neighbor is instance  525  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  410  is class  2.0
+It's nearest neighbor is instance  701  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  411  is class  1.0
+It's nearest neighbor is instance  684  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  412  is class  2.0
+It's nearest neighbor is instance  685  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  413  is class  1.0
+It's nearest neighbor is instance  8  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  414  is class  2.0
+It's nearest neighbor is instance  47  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  415  is class  2.0
+It's nearest neighbor is instance  784  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  416  is class  1.0
+It's nearest neighbor is instance  353  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  417  is class  2.0
+It's nearest neighbor is instance  886  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  418  is class  2.0
+It's nearest neighbor is instance  492  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  419  is class  2.0
+It's nearest neighbor is instance  183  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  420  is class  2.0
+It's nearest neighbor is instance  905  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  421  is class  1.0
+It's nearest neighbor is instance  298  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  422  is class  2.0
+It's nearest neighbor is instance  440  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  423  is class  2.0
+It's nearest neighbor is instance  845  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  424  is class  2.0
+It's nearest neighbor is instance  163  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  425  is class  2.0
+It's nearest neighbor is instance  214  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  426  is class  2.0
+It's nearest neighbor is instance  830  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  427  is class  2.0
+It's nearest neighbor is instance  438  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  428  is class  2.0
+It's nearest neighbor is instance  10  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  429  is class  2.0
+It's nearest neighbor is instance  492  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  430  is class  2.0
+It's nearest neighbor is instance  491  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  431  is class  2.0
+It's nearest neighbor is instance  859  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  432  is class  2.0
+It's nearest neighbor is instance  583  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  433  is class  1.0
+It's nearest neighbor is instance  160  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  434  is class  2.0
+It's nearest neighbor is instance  894  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  435  is class  2.0
+It's nearest neighbor is instance  707  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  436  is class  2.0
+It's nearest neighbor is instance  735  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  437  is class  2.0
+It's nearest neighbor is instance  811  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  438  is class  2.0
+It's nearest neighbor is instance  471  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  439  is class  2.0
+It's nearest neighbor is instance  102  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  440  is class  2.0
+It's nearest neighbor is instance  802  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  441  is class  2.0
+It's nearest neighbor is instance  252  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  442  is class  1.0
+It's nearest neighbor is instance  371  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  443  is class  2.0
+It's nearest neighbor is instance  818  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  444  is class  1.0
+It's nearest neighbor is instance  971  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  445  is class  2.0
+It's nearest neighbor is instance  858  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  446  is class  2.0
+It's nearest neighbor is instance  172  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  447  is class  2.0
+It's nearest neighbor is instance  597  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  448  is class  2.0
+It's nearest neighbor is instance  247  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  449  is class  2.0
+It's nearest neighbor is instance  569  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  450  is class  1.0
+It's nearest neighbor is instance  544  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  451  is class  2.0
+It's nearest neighbor is instance  655  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  452  is class  2.0
+It's nearest neighbor is instance  938  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  453  is class  2.0
+It's nearest neighbor is instance  594  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  454  is class  1.0
+It's nearest neighbor is instance  236  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  455  is class  2.0
+It's nearest neighbor is instance  390  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  456  is class  2.0
+It's nearest neighbor is instance  501  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  457  is class  2.0
+It's nearest neighbor is instance  451  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  458  is class  2.0
+It's nearest neighbor is instance  502  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  459  is class  2.0
+It's nearest neighbor is instance  590  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  460  is class  2.0
+It's nearest neighbor is instance  218  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  461  is class  2.0
+It's nearest neighbor is instance  364  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  462  is class  2.0
+It's nearest neighbor is instance  25  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  463  is class  1.0
+It's nearest neighbor is instance  799  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  464  is class  2.0
+It's nearest neighbor is instance  580  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  465  is class  2.0
+It's nearest neighbor is instance  886  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  466  is class  2.0
+It's nearest neighbor is instance  978  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  467  is class  2.0
+It's nearest neighbor is instance  618  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  468  is class  1.0
+It's nearest neighbor is instance  582  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  469  is class  2.0
+It's nearest neighbor is instance  192  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  470  is class  1.0
+It's nearest neighbor is instance  968  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  471  is class  2.0
+It's nearest neighbor is instance  368  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  472  is class  1.0
+It's nearest neighbor is instance  76  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  473  is class  2.0
+It's nearest neighbor is instance  908  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  474  is class  2.0
+It's nearest neighbor is instance  923  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  475  is class  1.0
+It's nearest neighbor is instance  378  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  476  is class  2.0
+It's nearest neighbor is instance  390  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  477  is class  2.0
+It's nearest neighbor is instance  17  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  478  is class  2.0
+It's nearest neighbor is instance  694  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  479  is class  2.0
+It's nearest neighbor is instance  976  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  480  is class  2.0
+It's nearest neighbor is instance  717  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  481  is class  2.0
+It's nearest neighbor is instance  649  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  482  is class  1.0
+It's nearest neighbor is instance  495  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  483  is class  1.0
+It's nearest neighbor is instance  982  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  484  is class  1.0
+It's nearest neighbor is instance  34  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  485  is class  2.0
+It's nearest neighbor is instance  543  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  486  is class  2.0
+It's nearest neighbor is instance  305  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  487  is class  2.0
+It's nearest neighbor is instance  300  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  488  is class  2.0
+It's nearest neighbor is instance  321  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  489  is class  1.0
+It's nearest neighbor is instance  882  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  490  is class  2.0
+It's nearest neighbor is instance  277  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  491  is class  2.0
+It's nearest neighbor is instance  855  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  492  is class  2.0
+It's nearest neighbor is instance  418  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  493  is class  2.0
+It's nearest neighbor is instance  166  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  494  is class  1.0
+It's nearest neighbor is instance  526  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  495  is class  1.0
+It's nearest neighbor is instance  482  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  496  is class  2.0
+It's nearest neighbor is instance  664  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  497  is class  2.0
+It's nearest neighbor is instance  217  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  498  is class  2.0
+It's nearest neighbor is instance  961  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  499  is class  2.0
+It's nearest neighbor is instance  969  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  500  is class  2.0
+It's nearest neighbor is instance  609  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  501  is class  2.0
+It's nearest neighbor is instance  550  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  502  is class  1.0
+It's nearest neighbor is instance  191  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  503  is class  1.0
+It's nearest neighbor is instance  113  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  504  is class  2.0
+It's nearest neighbor is instance  330  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  505  is class  2.0
+It's nearest neighbor is instance  661  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  506  is class  2.0
+It's nearest neighbor is instance  959  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  507  is class  2.0
+It's nearest neighbor is instance  808  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  508  is class  2.0
+It's nearest neighbor is instance  691  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  509  is class  2.0
+It's nearest neighbor is instance  98  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  510  is class  2.0
+It's nearest neighbor is instance  319  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  511  is class  2.0
+It's nearest neighbor is instance  619  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  512  is class  2.0
+It's nearest neighbor is instance  237  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  513  is class  2.0
+It's nearest neighbor is instance  841  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  514  is class  1.0
+It's nearest neighbor is instance  323  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  515  is class  2.0
+It's nearest neighbor is instance  868  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  516  is class  2.0
+It's nearest neighbor is instance  249  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  517  is class  2.0
+It's nearest neighbor is instance  198  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  518  is class  2.0
+It's nearest neighbor is instance  196  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  519  is class  2.0
+It's nearest neighbor is instance  575  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  520  is class  2.0
+It's nearest neighbor is instance  559  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  521  is class  1.0
+It's nearest neighbor is instance  34  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  522  is class  1.0
+It's nearest neighbor is instance  671  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  523  is class  2.0
+It's nearest neighbor is instance  690  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  524  is class  2.0
+It's nearest neighbor is instance  600  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  525  is class  2.0
+It's nearest neighbor is instance  409  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  526  is class  1.0
+It's nearest neighbor is instance  74  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  527  is class  2.0
+It's nearest neighbor is instance  790  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  528  is class  1.0
+It's nearest neighbor is instance  688  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  529  is class  2.0
+It's nearest neighbor is instance  959  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  530  is class  2.0
+It's nearest neighbor is instance  103  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  531  is class  2.0
+It's nearest neighbor is instance  199  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  532  is class  2.0
+It's nearest neighbor is instance  850  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  533  is class  2.0
+It's nearest neighbor is instance  994  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  534  is class  2.0
+It's nearest neighbor is instance  143  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  535  is class  2.0
+It's nearest neighbor is instance  618  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  536  is class  2.0
+It's nearest neighbor is instance  636  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  537  is class  2.0
+It's nearest neighbor is instance  980  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  538  is class  2.0
+It's nearest neighbor is instance  935  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  539  is class  2.0
+It's nearest neighbor is instance  128  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  540  is class  2.0
+It's nearest neighbor is instance  283  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  541  is class  2.0
+It's nearest neighbor is instance  84  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  542  is class  2.0
+It's nearest neighbor is instance  339  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  543  is class  2.0
+It's nearest neighbor is instance  774  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  544  is class  1.0
+It's nearest neighbor is instance  450  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  545  is class  2.0
+It's nearest neighbor is instance  666  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  546  is class  2.0
+It's nearest neighbor is instance  159  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  547  is class  2.0
+It's nearest neighbor is instance  743  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  548  is class  1.0
+It's nearest neighbor is instance  799  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  549  is class  2.0
+It's nearest neighbor is instance  663  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  550  is class  2.0
+It's nearest neighbor is instance  501  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  551  is class  2.0
+It's nearest neighbor is instance  850  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  552  is class  2.0
+It's nearest neighbor is instance  107  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  553  is class  2.0
+It's nearest neighbor is instance  811  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  554  is class  2.0
+It's nearest neighbor is instance  327  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  555  is class  2.0
+It's nearest neighbor is instance  566  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  556  is class  2.0
+It's nearest neighbor is instance  903  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  557  is class  2.0
+It's nearest neighbor is instance  20  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  558  is class  2.0
+It's nearest neighbor is instance  92  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  559  is class  2.0
+It's nearest neighbor is instance  232  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  560  is class  2.0
+It's nearest neighbor is instance  693  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  561  is class  2.0
+It's nearest neighbor is instance  299  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  562  is class  1.0
+It's nearest neighbor is instance  63  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  563  is class  2.0
+It's nearest neighbor is instance  599  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  564  is class  2.0
+It's nearest neighbor is instance  809  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  565  is class  2.0
+It's nearest neighbor is instance  321  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  566  is class  2.0
+It's nearest neighbor is instance  404  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  567  is class  2.0
+It's nearest neighbor is instance  65  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  568  is class  2.0
+It's nearest neighbor is instance  57  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  569  is class  2.0
+It's nearest neighbor is instance  867  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  570  is class  2.0
+It's nearest neighbor is instance  321  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  571  is class  2.0
+It's nearest neighbor is instance  825  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  572  is class  2.0
+It's nearest neighbor is instance  94  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  573  is class  2.0
+It's nearest neighbor is instance  166  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  574  is class  1.0
+It's nearest neighbor is instance  306  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  575  is class  2.0
+It's nearest neighbor is instance  519  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  576  is class  1.0
+It's nearest neighbor is instance  991  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  577  is class  1.0
+It's nearest neighbor is instance  671  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  578  is class  1.0
+It's nearest neighbor is instance  704  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  579  is class  2.0
+It's nearest neighbor is instance  451  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  580  is class  2.0
+It's nearest neighbor is instance  464  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  581  is class  2.0
+It's nearest neighbor is instance  719  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  582  is class  1.0
+It's nearest neighbor is instance  468  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  583  is class  2.0
+It's nearest neighbor is instance  432  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  584  is class  2.0
+It's nearest neighbor is instance  13  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  585  is class  2.0
+It's nearest neighbor is instance  931  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  586  is class  2.0
+It's nearest neighbor is instance  774  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  587  is class  1.0
+It's nearest neighbor is instance  312  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  588  is class  2.0
+It's nearest neighbor is instance  434  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  589  is class  2.0
+It's nearest neighbor is instance  359  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  590  is class  2.0
+It's nearest neighbor is instance  331  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  591  is class  2.0
+It's nearest neighbor is instance  871  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  592  is class  2.0
+It's nearest neighbor is instance  50  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  593  is class  2.0
+It's nearest neighbor is instance  849  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  594  is class  2.0
+It's nearest neighbor is instance  453  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  595  is class  2.0
+It's nearest neighbor is instance  440  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  596  is class  2.0
+It's nearest neighbor is instance  38  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  597  is class  2.0
+It's nearest neighbor is instance  447  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  598  is class  1.0
+It's nearest neighbor is instance  150  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  599  is class  2.0
+It's nearest neighbor is instance  563  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  600  is class  2.0
+It's nearest neighbor is instance  185  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  601  is class  2.0
+It's nearest neighbor is instance  98  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  602  is class  1.0
+It's nearest neighbor is instance  844  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  603  is class  1.0
+It's nearest neighbor is instance  303  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  604  is class  2.0
+It's nearest neighbor is instance  77  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  605  is class  2.0
+It's nearest neighbor is instance  402  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  606  is class  2.0
+It's nearest neighbor is instance  916  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  607  is class  2.0
+It's nearest neighbor is instance  947  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  608  is class  1.0
+It's nearest neighbor is instance  475  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  609  is class  2.0
+It's nearest neighbor is instance  500  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  610  is class  2.0
+It's nearest neighbor is instance  693  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  611  is class  2.0
+It's nearest neighbor is instance  135  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  612  is class  2.0
+It's nearest neighbor is instance  913  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  613  is class  2.0
+It's nearest neighbor is instance  949  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  614  is class  2.0
+It's nearest neighbor is instance  284  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  615  is class  2.0
+It's nearest neighbor is instance  752  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  616  is class  1.0
+It's nearest neighbor is instance  958  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  617  is class  2.0
+It's nearest neighbor is instance  349  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  618  is class  2.0
+It's nearest neighbor is instance  467  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  619  is class  2.0
+It's nearest neighbor is instance  511  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  620  is class  2.0
+It's nearest neighbor is instance  70  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  621  is class  2.0
+It's nearest neighbor is instance  87  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  622  is class  1.0
+It's nearest neighbor is instance  695  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  623  is class  1.0
+It's nearest neighbor is instance  846  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  624  is class  2.0
+It's nearest neighbor is instance  741  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  625  is class  2.0
+It's nearest neighbor is instance  94  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  626  is class  2.0
+It's nearest neighbor is instance  161  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  627  is class  2.0
+It's nearest neighbor is instance  79  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  628  is class  2.0
+It's nearest neighbor is instance  877  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  629  is class  1.0
+It's nearest neighbor is instance  197  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  630  is class  1.0
+It's nearest neighbor is instance  854  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  631  is class  1.0
+It's nearest neighbor is instance  334  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  632  is class  1.0
+It's nearest neighbor is instance  732  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  633  is class  2.0
+It's nearest neighbor is instance  504  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  634  is class  2.0
+It's nearest neighbor is instance  861  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  635  is class  1.0
+It's nearest neighbor is instance  278  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  636  is class  2.0
+It's nearest neighbor is instance  536  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  637  is class  1.0
+It's nearest neighbor is instance  189  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  638  is class  2.0
+It's nearest neighbor is instance  883  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  639  is class  2.0
+It's nearest neighbor is instance  287  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  640  is class  2.0
+It's nearest neighbor is instance  735  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  641  is class  2.0
+It's nearest neighbor is instance  289  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  642  is class  2.0
+It's nearest neighbor is instance  81  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  643  is class  2.0
+It's nearest neighbor is instance  99  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  644  is class  1.0
+It's nearest neighbor is instance  948  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  645  is class  2.0
+It's nearest neighbor is instance  755  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  646  is class  2.0
+It's nearest neighbor is instance  802  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  647  is class  2.0
+It's nearest neighbor is instance  491  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  648  is class  2.0
+It's nearest neighbor is instance  651  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  649  is class  2.0
+It's nearest neighbor is instance  370  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  650  is class  2.0
+It's nearest neighbor is instance  880  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  651  is class  2.0
+It's nearest neighbor is instance  648  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  652  is class  1.0
+It's nearest neighbor is instance  749  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  653  is class  2.0
+It's nearest neighbor is instance  910  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  654  is class  1.0
+It's nearest neighbor is instance  302  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  655  is class  2.0
+It's nearest neighbor is instance  451  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  656  is class  2.0
+It's nearest neighbor is instance  443  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  657  is class  1.0
+It's nearest neighbor is instance  265  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  658  is class  2.0
+It's nearest neighbor is instance  377  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  659  is class  2.0
+It's nearest neighbor is instance  759  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  660  is class  2.0
+It's nearest neighbor is instance  132  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  661  is class  2.0
+It's nearest neighbor is instance  85  which is class  2.0
+Time taken for test function: 0.0086 seconds
+
+
+Instance  662  is class  2.0
+It's nearest neighbor is instance  41  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  663  is class  2.0
+It's nearest neighbor is instance  549  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  664  is class  2.0
+It's nearest neighbor is instance  708  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  665  is class  2.0
+It's nearest neighbor is instance  0  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  666  is class  2.0
+It's nearest neighbor is instance  29  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  667  is class  2.0
+It's nearest neighbor is instance  678  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  668  is class  2.0
+It's nearest neighbor is instance  51  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  669  is class  1.0
+It's nearest neighbor is instance  794  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  670  is class  2.0
+It's nearest neighbor is instance  826  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  671  is class  1.0
+It's nearest neighbor is instance  522  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  672  is class  2.0
+It's nearest neighbor is instance  95  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  673  is class  1.0
+It's nearest neighbor is instance  114  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  674  is class  2.0
+It's nearest neighbor is instance  490  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  675  is class  2.0
+It's nearest neighbor is instance  540  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  676  is class  1.0
+It's nearest neighbor is instance  958  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  677  is class  1.0
+It's nearest neighbor is instance  279  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  678  is class  2.0
+It's nearest neighbor is instance  667  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  679  is class  2.0
+It's nearest neighbor is instance  418  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  680  is class  2.0
+It's nearest neighbor is instance  129  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  681  is class  1.0
+It's nearest neighbor is instance  513  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  682  is class  2.0
+It's nearest neighbor is instance  536  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  683  is class  2.0
+It's nearest neighbor is instance  826  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  684  is class  1.0
+It's nearest neighbor is instance  676  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  685  is class  1.0
+It's nearest neighbor is instance  412  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  686  is class  1.0
+It's nearest neighbor is instance  756  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  687  is class  2.0
+It's nearest neighbor is instance  497  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  688  is class  1.0
+It's nearest neighbor is instance  528  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  689  is class  2.0
+It's nearest neighbor is instance  479  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  690  is class  2.0
+It's nearest neighbor is instance  523  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  691  is class  2.0
+It's nearest neighbor is instance  722  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  692  is class  2.0
+It's nearest neighbor is instance  157  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  693  is class  2.0
+It's nearest neighbor is instance  560  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  694  is class  2.0
+It's nearest neighbor is instance  478  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  695  is class  1.0
+It's nearest neighbor is instance  622  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  696  is class  1.0
+It's nearest neighbor is instance  272  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  697  is class  2.0
+It's nearest neighbor is instance  937  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  698  is class  2.0
+It's nearest neighbor is instance  509  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  699  is class  2.0
+It's nearest neighbor is instance  169  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  700  is class  1.0
+It's nearest neighbor is instance  242  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  701  is class  2.0
+It's nearest neighbor is instance  899  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  702  is class  2.0
+It's nearest neighbor is instance  228  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  703  is class  2.0
+It's nearest neighbor is instance  922  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  704  is class  1.0
+It's nearest neighbor is instance  578  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  705  is class  2.0
+It's nearest neighbor is instance  924  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  706  is class  2.0
+It's nearest neighbor is instance  886  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  707  is class  2.0
+It's nearest neighbor is instance  394  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  708  is class  1.0
+It's nearest neighbor is instance  86  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  709  is class  2.0
+It's nearest neighbor is instance  765  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  710  is class  2.0
+It's nearest neighbor is instance  368  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  711  is class  2.0
+It's nearest neighbor is instance  878  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  712  is class  2.0
+It's nearest neighbor is instance  984  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  713  is class  2.0
+It's nearest neighbor is instance  782  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  714  is class  2.0
+It's nearest neighbor is instance  715  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  715  is class  2.0
+It's nearest neighbor is instance  714  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  716  is class  2.0
+It's nearest neighbor is instance  474  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  717  is class  2.0
+It's nearest neighbor is instance  9  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  718  is class  2.0
+It's nearest neighbor is instance  236  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  719  is class  2.0
+It's nearest neighbor is instance  977  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  720  is class  2.0
+It's nearest neighbor is instance  805  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  721  is class  2.0
+It's nearest neighbor is instance  856  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  722  is class  2.0
+It's nearest neighbor is instance  786  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  723  is class  2.0
+It's nearest neighbor is instance  835  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  724  is class  2.0
+It's nearest neighbor is instance  758  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  725  is class  2.0
+It's nearest neighbor is instance  231  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  726  is class  2.0
+It's nearest neighbor is instance  406  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  727  is class  2.0
+It's nearest neighbor is instance  863  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  728  is class  2.0
+It's nearest neighbor is instance  592  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  729  is class  2.0
+It's nearest neighbor is instance  91  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  730  is class  2.0
+It's nearest neighbor is instance  695  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  731  is class  2.0
+It's nearest neighbor is instance  967  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  732  is class  1.0
+It's nearest neighbor is instance  55  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  733  is class  2.0
+It's nearest neighbor is instance  457  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  734  is class  2.0
+It's nearest neighbor is instance  32  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  735  is class  2.0
+It's nearest neighbor is instance  51  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  736  is class  2.0
+It's nearest neighbor is instance  311  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  737  is class  2.0
+It's nearest neighbor is instance  88  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  738  is class  2.0
+It's nearest neighbor is instance  35  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  739  is class  2.0
+It's nearest neighbor is instance  333  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  740  is class  2.0
+It's nearest neighbor is instance  194  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  741  is class  2.0
+It's nearest neighbor is instance  624  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  742  is class  2.0
+It's nearest neighbor is instance  628  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  743  is class  2.0
+It's nearest neighbor is instance  547  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  744  is class  2.0
+It's nearest neighbor is instance  861  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  745  is class  2.0
+It's nearest neighbor is instance  331  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  746  is class  2.0
+It's nearest neighbor is instance  240  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  747  is class  1.0
+It's nearest neighbor is instance  278  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  748  is class  2.0
+It's nearest neighbor is instance  997  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  749  is class  1.0
+It's nearest neighbor is instance  652  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  750  is class  1.0
+It's nearest neighbor is instance  156  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  751  is class  2.0
+It's nearest neighbor is instance  916  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  752  is class  2.0
+It's nearest neighbor is instance  615  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  753  is class  2.0
+It's nearest neighbor is instance  481  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  754  is class  2.0
+It's nearest neighbor is instance  512  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  755  is class  2.0
+It's nearest neighbor is instance  988  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  756  is class  2.0
+It's nearest neighbor is instance  686  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  757  is class  2.0
+It's nearest neighbor is instance  273  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  758  is class  2.0
+It's nearest neighbor is instance  724  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  759  is class  2.0
+It's nearest neighbor is instance  975  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  760  is class  1.0
+It's nearest neighbor is instance  934  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  761  is class  2.0
+It's nearest neighbor is instance  965  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  762  is class  2.0
+It's nearest neighbor is instance  254  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  763  is class  2.0
+It's nearest neighbor is instance  73  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  764  is class  2.0
+It's nearest neighbor is instance  357  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  765  is class  1.0
+It's nearest neighbor is instance  709  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  766  is class  2.0
+It's nearest neighbor is instance  896  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  767  is class  2.0
+It's nearest neighbor is instance  145  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  768  is class  2.0
+It's nearest neighbor is instance  332  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  769  is class  2.0
+It's nearest neighbor is instance  171  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  770  is class  1.0
+It's nearest neighbor is instance  211  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  771  is class  2.0
+It's nearest neighbor is instance  332  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  772  is class  2.0
+It's nearest neighbor is instance  639  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  773  is class  2.0
+It's nearest neighbor is instance  88  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  774  is class  2.0
+It's nearest neighbor is instance  543  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  775  is class  2.0
+It's nearest neighbor is instance  687  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  776  is class  2.0
+It's nearest neighbor is instance  931  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  777  is class  2.0
+It's nearest neighbor is instance  224  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  778  is class  2.0
+It's nearest neighbor is instance  683  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  779  is class  2.0
+It's nearest neighbor is instance  883  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  780  is class  2.0
+It's nearest neighbor is instance  862  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  781  is class  2.0
+It's nearest neighbor is instance  435  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  782  is class  2.0
+It's nearest neighbor is instance  271  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  783  is class  2.0
+It's nearest neighbor is instance  148  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  784  is class  2.0
+It's nearest neighbor is instance  727  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  785  is class  2.0
+It's nearest neighbor is instance  168  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  786  is class  2.0
+It's nearest neighbor is instance  722  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  787  is class  2.0
+It's nearest neighbor is instance  54  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  788  is class  2.0
+It's nearest neighbor is instance  371  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  789  is class  1.0
+It's nearest neighbor is instance  433  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  790  is class  2.0
+It's nearest neighbor is instance  878  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  791  is class  2.0
+It's nearest neighbor is instance  323  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  792  is class  2.0
+It's nearest neighbor is instance  44  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  793  is class  2.0
+It's nearest neighbor is instance  206  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  794  is class  2.0
+It's nearest neighbor is instance  669  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  795  is class  2.0
+It's nearest neighbor is instance  757  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  796  is class  1.0
+It's nearest neighbor is instance  582  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  797  is class  2.0
+It's nearest neighbor is instance  581  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  798  is class  1.0
+It's nearest neighbor is instance  278  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  799  is class  1.0
+It's nearest neighbor is instance  463  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  800  is class  2.0
+It's nearest neighbor is instance  885  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  801  is class  2.0
+It's nearest neighbor is instance  402  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  802  is class  2.0
+It's nearest neighbor is instance  440  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  803  is class  2.0
+It's nearest neighbor is instance  817  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  804  is class  1.0
+It's nearest neighbor is instance  881  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  805  is class  2.0
+It's nearest neighbor is instance  720  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  806  is class  2.0
+It's nearest neighbor is instance  14  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  807  is class  2.0
+It's nearest neighbor is instance  403  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  808  is class  2.0
+It's nearest neighbor is instance  596  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  809  is class  2.0
+It's nearest neighbor is instance  564  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  810  is class  1.0
+It's nearest neighbor is instance  131  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  811  is class  2.0
+It's nearest neighbor is instance  553  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  812  is class  2.0
+It's nearest neighbor is instance  53  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  813  is class  2.0
+It's nearest neighbor is instance  672  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  814  is class  2.0
+It's nearest neighbor is instance  335  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  815  is class  2.0
+It's nearest neighbor is instance  9  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  816  is class  2.0
+It's nearest neighbor is instance  533  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  817  is class  2.0
+It's nearest neighbor is instance  803  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  818  is class  2.0
+It's nearest neighbor is instance  443  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  819  is class  2.0
+It's nearest neighbor is instance  999  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  820  is class  2.0
+It's nearest neighbor is instance  362  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  821  is class  2.0
+It's nearest neighbor is instance  393  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  822  is class  2.0
+It's nearest neighbor is instance  373  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  823  is class  2.0
+It's nearest neighbor is instance  855  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  824  is class  1.0
+It's nearest neighbor is instance  676  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  825  is class  2.0
+It's nearest neighbor is instance  571  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  826  is class  2.0
+It's nearest neighbor is instance  683  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  827  is class  2.0
+It's nearest neighbor is instance  446  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  828  is class  2.0
+It's nearest neighbor is instance  583  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  829  is class  2.0
+It's nearest neighbor is instance  957  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  830  is class  2.0
+It's nearest neighbor is instance  426  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  831  is class  2.0
+It's nearest neighbor is instance  16  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  832  is class  2.0
+It's nearest neighbor is instance  660  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  833  is class  2.0
+It's nearest neighbor is instance  961  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  834  is class  2.0
+It's nearest neighbor is instance  862  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  835  is class  2.0
+It's nearest neighbor is instance  182  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  836  is class  2.0
+It's nearest neighbor is instance  215  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  837  is class  2.0
+It's nearest neighbor is instance  292  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  838  is class  1.0
+It's nearest neighbor is instance  30  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  839  is class  2.0
+It's nearest neighbor is instance  415  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  840  is class  2.0
+It's nearest neighbor is instance  57  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  841  is class  2.0
+It's nearest neighbor is instance  513  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  842  is class  1.0
+It's nearest neighbor is instance  721  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  843  is class  2.0
+It's nearest neighbor is instance  873  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  844  is class  1.0
+It's nearest neighbor is instance  602  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  845  is class  2.0
+It's nearest neighbor is instance  423  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  846  is class  1.0
+It's nearest neighbor is instance  363  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  847  is class  2.0
+It's nearest neighbor is instance  192  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  848  is class  2.0
+It's nearest neighbor is instance  27  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  849  is class  2.0
+It's nearest neighbor is instance  593  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  850  is class  2.0
+It's nearest neighbor is instance  198  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  851  is class  2.0
+It's nearest neighbor is instance  301  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  852  is class  1.0
+It's nearest neighbor is instance  985  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  853  is class  1.0
+It's nearest neighbor is instance  150  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  854  is class  1.0
+It's nearest neighbor is instance  630  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  855  is class  2.0
+It's nearest neighbor is instance  491  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  856  is class  1.0
+It's nearest neighbor is instance  489  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  857  is class  2.0
+It's nearest neighbor is instance  903  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  858  is class  2.0
+It's nearest neighbor is instance  445  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  859  is class  2.0
+It's nearest neighbor is instance  184  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  860  is class  2.0
+It's nearest neighbor is instance  808  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  861  is class  2.0
+It's nearest neighbor is instance  744  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  862  is class  2.0
+It's nearest neighbor is instance  834  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  863  is class  2.0
+It's nearest neighbor is instance  727  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  864  is class  2.0
+It's nearest neighbor is instance  601  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  865  is class  1.0
+It's nearest neighbor is instance  32  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  866  is class  2.0
+It's nearest neighbor is instance  439  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  867  is class  2.0
+It's nearest neighbor is instance  343  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  868  is class  2.0
+It's nearest neighbor is instance  168  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  869  is class  2.0
+It's nearest neighbor is instance  64  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  870  is class  2.0
+It's nearest neighbor is instance  14  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  871  is class  2.0
+It's nearest neighbor is instance  966  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  872  is class  2.0
+It's nearest neighbor is instance  680  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  873  is class  2.0
+It's nearest neighbor is instance  843  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  874  is class  2.0
+It's nearest neighbor is instance  143  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  875  is class  2.0
+It's nearest neighbor is instance  328  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  876  is class  2.0
+It's nearest neighbor is instance  564  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  877  is class  2.0
+It's nearest neighbor is instance  628  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  878  is class  2.0
+It's nearest neighbor is instance  711  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  879  is class  2.0
+It's nearest neighbor is instance  273  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  880  is class  2.0
+It's nearest neighbor is instance  103  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  881  is class  1.0
+It's nearest neighbor is instance  804  which is class  1.0
+Time taken for test function: 0.0087 seconds
+
+
+Instance  882  is class  1.0
+It's nearest neighbor is instance  489  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  883  is class  2.0
+It's nearest neighbor is instance  758  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  884  is class  2.0
+It's nearest neighbor is instance  344  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  885  is class  2.0
+It's nearest neighbor is instance  712  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  886  is class  2.0
+It's nearest neighbor is instance  706  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  887  is class  2.0
+It's nearest neighbor is instance  621  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  888  is class  2.0
+It's nearest neighbor is instance  289  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  889  is class  1.0
+It's nearest neighbor is instance  104  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  890  is class  2.0
+It's nearest neighbor is instance  15  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  891  is class  2.0
+It's nearest neighbor is instance  274  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  892  is class  2.0
+It's nearest neighbor is instance  231  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  893  is class  1.0
+It's nearest neighbor is instance  926  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  894  is class  2.0
+It's nearest neighbor is instance  144  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  895  is class  1.0
+It's nearest neighbor is instance  918  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  896  is class  2.0
+It's nearest neighbor is instance  772  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  897  is class  2.0
+It's nearest neighbor is instance  921  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  898  is class  2.0
+It's nearest neighbor is instance  930  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  899  is class  2.0
+It's nearest neighbor is instance  701  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  900  is class  2.0
+It's nearest neighbor is instance  779  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  901  is class  1.0
+It's nearest neighbor is instance  34  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  902  is class  1.0
+It's nearest neighbor is instance  173  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  903  is class  2.0
+It's nearest neighbor is instance  556  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  904  is class  2.0
+It's nearest neighbor is instance  183  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  905  is class  2.0
+It's nearest neighbor is instance  633  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  906  is class  2.0
+It's nearest neighbor is instance  572  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  907  is class  2.0
+It's nearest neighbor is instance  16  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  908  is class  2.0
+It's nearest neighbor is instance  473  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  909  is class  2.0
+It's nearest neighbor is instance  282  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  910  is class  2.0
+It's nearest neighbor is instance  280  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  911  is class  2.0
+It's nearest neighbor is instance  197  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  912  is class  1.0
+It's nearest neighbor is instance  259  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  913  is class  2.0
+It's nearest neighbor is instance  612  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  914  is class  2.0
+It's nearest neighbor is instance  90  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  915  is class  2.0
+It's nearest neighbor is instance  19  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  916  is class  2.0
+It's nearest neighbor is instance  606  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  917  is class  2.0
+It's nearest neighbor is instance  130  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  918  is class  1.0
+It's nearest neighbor is instance  566  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  919  is class  1.0
+It's nearest neighbor is instance  353  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  920  is class  2.0
+It's nearest neighbor is instance  118  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  921  is class  2.0
+It's nearest neighbor is instance  213  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  922  is class  2.0
+It's nearest neighbor is instance  703  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  923  is class  1.0
+It's nearest neighbor is instance  474  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  924  is class  2.0
+It's nearest neighbor is instance  97  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  925  is class  2.0
+It's nearest neighbor is instance  77  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  926  is class  1.0
+It's nearest neighbor is instance  893  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  927  is class  2.0
+It's nearest neighbor is instance  288  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  928  is class  2.0
+It's nearest neighbor is instance  41  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  929  is class  2.0
+It's nearest neighbor is instance  689  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  930  is class  2.0
+It's nearest neighbor is instance  898  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  931  is class  2.0
+It's nearest neighbor is instance  219  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  932  is class  2.0
+It's nearest neighbor is instance  960  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  933  is class  2.0
+It's nearest neighbor is instance  403  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  934  is class  1.0
+It's nearest neighbor is instance  61  which is class  1.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  935  is class  2.0
+It's nearest neighbor is instance  538  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  936  is class  2.0
+It's nearest neighbor is instance  29  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  937  is class  2.0
+It's nearest neighbor is instance  511  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  938  is class  2.0
+It's nearest neighbor is instance  452  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  939  is class  2.0
+It's nearest neighbor is instance  185  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  940  is class  2.0
+It's nearest neighbor is instance  92  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  941  is class  1.0
+It's nearest neighbor is instance  846  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  942  is class  2.0
+It's nearest neighbor is instance  84  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  943  is class  2.0
+It's nearest neighbor is instance  905  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  944  is class  2.0
+It's nearest neighbor is instance  112  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  945  is class  2.0
+It's nearest neighbor is instance  742  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  946  is class  2.0
+It's nearest neighbor is instance  947  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  947  is class  2.0
+It's nearest neighbor is instance  607  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  948  is class  1.0
+It's nearest neighbor is instance  644  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  949  is class  2.0
+It's nearest neighbor is instance  613  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  950  is class  2.0
+It's nearest neighbor is instance  877  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  951  is class  2.0
+It's nearest neighbor is instance  745  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  952  is class  2.0
+It's nearest neighbor is instance  215  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  953  is class  2.0
+It's nearest neighbor is instance  342  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  954  is class  1.0
+It's nearest neighbor is instance  602  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  955  is class  2.0
+It's nearest neighbor is instance  233  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  956  is class  2.0
+It's nearest neighbor is instance  917  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  957  is class  2.0
+It's nearest neighbor is instance  967  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  958  is class  1.0
+It's nearest neighbor is instance  676  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  959  is class  2.0
+It's nearest neighbor is instance  506  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  960  is class  2.0
+It's nearest neighbor is instance  981  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  961  is class  2.0
+It's nearest neighbor is instance  498  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  962  is class  2.0
+It's nearest neighbor is instance  52  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  963  is class  2.0
+It's nearest neighbor is instance  310  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  964  is class  2.0
+It's nearest neighbor is instance  124  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  965  is class  2.0
+It's nearest neighbor is instance  761  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  966  is class  2.0
+It's nearest neighbor is instance  448  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  967  is class  2.0
+It's nearest neighbor is instance  957  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  968  is class  1.0
+It's nearest neighbor is instance  958  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  969  is class  2.0
+It's nearest neighbor is instance  499  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  970  is class  2.0
+It's nearest neighbor is instance  197  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  971  is class  1.0
+It's nearest neighbor is instance  179  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  972  is class  1.0
+It's nearest neighbor is instance  844  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  973  is class  2.0
+It's nearest neighbor is instance  361  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  974  is class  2.0
+It's nearest neighbor is instance  337  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  975  is class  2.0
+It's nearest neighbor is instance  759  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  976  is class  2.0
+It's nearest neighbor is instance  479  which is class  2.0
+Time taken for test function: 0.0085 seconds
+
+
+Instance  977  is class  2.0
+It's nearest neighbor is instance  719  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  978  is class  2.0
+It's nearest neighbor is instance  466  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  979  is class  2.0
+It's nearest neighbor is instance  81  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  980  is class  2.0
+It's nearest neighbor is instance  537  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  981  is class  2.0
+It's nearest neighbor is instance  960  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  982  is class  1.0
+It's nearest neighbor is instance  483  which is class  1.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  983  is class  2.0
+It's nearest neighbor is instance  793  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  984  is class  2.0
+It's nearest neighbor is instance  291  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  985  is class  2.0
+It's nearest neighbor is instance  988  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  986  is class  2.0
+It's nearest neighbor is instance  354  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  987  is class  2.0
+It's nearest neighbor is instance  649  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  988  is class  2.0
+It's nearest neighbor is instance  985  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  989  is class  2.0
+It's nearest neighbor is instance  931  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  990  is class  2.0
+It's nearest neighbor is instance  204  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  991  is class  1.0
+It's nearest neighbor is instance  576  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  992  is class  2.0
+It's nearest neighbor is instance  11  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  993  is class  2.0
+It's nearest neighbor is instance  99  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  994  is class  2.0
+It's nearest neighbor is instance  339  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  995  is class  2.0
+It's nearest neighbor is instance  121  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  996  is class  2.0
+It's nearest neighbor is instance  50  which is class  2.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  997  is class  2.0
+It's nearest neighbor is instance  748  which is class  2.0
+Time taken for test function: 0.0083 seconds
+
+
+Instance  998  is class  1.0
+It's nearest neighbor is instance  844  which is class  1.0
+Time taken for test function: 0.0084 seconds
+
+
+Instance  999  is class  2.0
+It's nearest neighbor is instance  819  which is class  2.0
+Time taken for test function: 0.0087 seconds
+
+
+Time taken for evaluate function: 8.5263 seconds
+Using Data Set:
+./datasets/large-test-dataset.txt
+And features:
+['1', '15', '27']
+We get an Accuracy of:
+0.949

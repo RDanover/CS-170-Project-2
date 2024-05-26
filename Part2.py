@@ -1,19 +1,24 @@
 import pandas as pd
 import sys 
 import math
+import time
 
 normalized_df = None
 
 def train(training_data):
-    print('Normalizing Data')
+    start_time = time.time()
+    print('NORMALIZING DATA')
     global normalized_df
-    columns_to_normalize = training_data.columns[1:]
-    normalized_data = (training_data[columns_to_normalize] - training_data[columns_to_normalize].mean()) / training_data[columns_to_normalize].std()
-    normalized_df = pd.concat([training_data.iloc[:, 0], normalized_data], axis=1)
-    #normalized_df = training_data
+    #columns_to_normalize = training_data.columns[1:]
+    #normalized_data = (training_data[columns_to_normalize] - training_data[columns_to_normalize].mean()) / training_data[columns_to_normalize].std()
+    #normalized_df = pd.concat([training_data.iloc[:, 0], normalized_data], axis=1)
+    normalized_df = training_data
+    end_time = time.time()
+    print(f"Time taken for train function: {end_time - start_time:.4f} seconds")
     return
 
 def test(test_index, test_data_set):
+    start_time = time.time()
     test_vals = []
     i=0
     for value in test_index:
@@ -45,10 +50,16 @@ def test(test_index, test_data_set):
             min = distance
             index_of_min = i
         i+=1
-        
-    return normalized_df.iloc[index_of_min, 0]
+    predicted_class = normalized_df.iloc[index_of_min, 0]
+    print('It\'s nearest neighbor is instance ',index_of_min,' which is class ', predicted_class)
+    end_time = time.time()
+    print(f"Time taken for test function: {end_time - start_time:.4f} seconds")
+    print('\n')
+    return predicted_class
 
 def evaluate(feature_set,full_data_set):
+    start_time = time.time()
+    print('BEGINING LEAVE ONE OUT VALIDATION')
     feature_set = ['0'] + feature_set
     evaluation_df = full_data_set[feature_set]
     num_correct = 0
@@ -57,10 +68,14 @@ def evaluate(feature_set,full_data_set):
     for index, row in normalized_df.iterrows():
         actual_class = normalized_df.iloc[index, 0]
         modified_df = evaluation_df.drop(index)
+        print('Instance ',index,' is class ',actual_class)
         predicted_class = test(row,modified_df)
         if(actual_class==predicted_class):
             num_correct+=1
         num_total+=1
+    
+    end_time = time.time()
+    print(f"Time taken for evaluate function: {end_time - start_time:.4f} seconds")
     
     return num_correct/num_total
 
@@ -83,6 +98,7 @@ df = pd.read_table(filepath, sep='\s+', names=column_names, header=None)
 
 df = df.apply(pd.to_numeric, errors='coerce')
 
+
 accuracy = evaluate(set_of_features, df)
 
 print('Using Data Set:')
@@ -93,3 +109,22 @@ print(set_of_features)
 
 print('We get an Accuracy of:')
 print(accuracy)
+
+
+#with open(f"{filepath}trace.txt", "w") as f:
+   #original_stdout = sys.stdout
+    #sys.stdout = f
+
+    #accuracy = evaluate(set_of_features, df)
+
+    #print('Using Data Set:')
+    #print(filepath)
+
+    #print('And features:')
+    #print(set_of_features)
+
+    #print('We get an Accuracy of:')
+    #print(accuracy)
+
+    # Reset stdout to its original value
+    #sys.stdout = original_stdout
