@@ -9,9 +9,9 @@ def train(training_data):
     start_time = time.time()
     print('NORMALIZING DATA')
     global normalized_df
-    #columns_to_normalize = training_data.columns[1:]
-    #normalized_data = (training_data[columns_to_normalize] - training_data[columns_to_normalize].mean()) / training_data[columns_to_normalize].std()
-    #normalized_df = pd.concat([training_data.iloc[:, 0], normalized_data], axis=1)
+    columns_to_normalize = training_data.columns[1:]
+    normalized_data = (training_data[columns_to_normalize] - training_data[columns_to_normalize].mean()) / training_data[columns_to_normalize].std()
+    normalized_df = pd.concat([training_data.iloc[:, 0], normalized_data], axis=1)
     normalized_df = training_data
     end_time = time.time()
     print(f"Time taken for train function: {end_time - start_time:.4f} seconds")
@@ -109,22 +109,3 @@ print(set_of_features)
 
 print('We get an Accuracy of:')
 print(accuracy)
-
-
-#with open(f"{filepath}trace.txt", "w") as f:
-   #original_stdout = sys.stdout
-    #sys.stdout = f
-
-    #accuracy = evaluate(set_of_features, df)
-
-    #print('Using Data Set:')
-    #print(filepath)
-
-    #print('And features:')
-    #print(set_of_features)
-
-    #print('We get an Accuracy of:')
-    #print(accuracy)
-
-    # Reset stdout to its original value
-    #sys.stdout = original_stdout
