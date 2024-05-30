@@ -28,10 +28,6 @@ def find_full_feature_set():
         full_feature_set.append(i+1)
     return full_feature_set
 
-def print_feature_sub_set(feature_sub_set):
-    print(*feature_sub_set, sep=",")
-    return
-
 def train():
     global X_norm
     global y
