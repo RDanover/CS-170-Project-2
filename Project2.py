@@ -1,5 +1,6 @@
 import pandas as pd
 import numpy as np
+import random
 
 def find_most_common_class():
     count_A = 0
@@ -218,6 +219,33 @@ def greedy_backwards(full_feature_set):
 
     return
 
+def randomChoice(full_feature_set,n,k):
+    best_feature_subset = []
+    feature_sub_set = []
+    max_accuracy = 0
+    for i in range (int(n)):
+        feature_sub_set = random.sample(full_feature_set, int(k))
+        temp_accuracy = evaluate(feature_sub_set) * 100
+        print("Itteration:",i+1,"/",n)
+        print("\n")
+        print("\tUsing feature(s) {", end="")
+        print(*feature_sub_set, sep=",", end="")
+        print("}",end="")
+        print(" accuracy is {:.1f}%".format(temp_accuracy))
+        print("\n")
+        if(temp_accuracy>=max_accuracy):
+            max_accuracy=temp_accuracy
+            best_feature_subset = feature_sub_set
+        else:
+            print("(Warning, Accuracy has decreased! Continuing search in case of local maxima)")
+            print("\n")
+    
+    print("Finished search!! The best feature subset is {", end="")
+    print(*best_feature_subset, sep=",", end="")
+    print("}",end="")
+    print(", which has an accuracy of {:.1f}%".format(max_accuracy))
+    return
+
 
 print("Welcome to Rachel Danover's Feature Selection Algorithm.")
 file_name = input("Type in the name of the file to test : ")
@@ -228,17 +256,32 @@ print("Type the number of the algorithm you want to run.")
 print("\n")
 print("\tForward Selection")
 print("\tBackward Elimination")
+print("\tRachel's Special Algorithm")
 print("\n")
 print("\t \t \t \t",end="")
 algorithm_choice = input()
 print("\n")
-train()
-full_feature_set = find_full_feature_set()
+
 
 if(algorithm_choice=='1'):
+    train()
+    full_feature_set = find_full_feature_set()
     greedy_forwards(full_feature_set)
 elif(algorithm_choice=='2'):
+    train()
+    full_feature_set = find_full_feature_set()
     greedy_backwards(full_feature_set)
+elif(algorithm_choice=='3'):
+    
+    print("Please enter the number of restarts you would like to use:\n")
+    n_choice = input()
+    print("\n")
+    print("Please enter the size of the feature subset you would like to use:\n")
+    k_choice = input()
+    print("\n")
+    train()
+    full_feature_set = find_full_feature_set()
+    randomChoice(full_feature_set,n_choice,k_choice)
 
 
 
